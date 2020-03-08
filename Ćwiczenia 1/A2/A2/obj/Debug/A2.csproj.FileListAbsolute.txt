@@ -1,0 +1,6 @@
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\bin\Debug\A2.exe.config
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\bin\Debug\A2.exe
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\bin\Debug\A2.pdb
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\obj\Debug\A2.csprojAssemblyReference.cache
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\obj\Debug\A2.exe
+C:\Users\vito2\source\repos\Zaawansowane-programowanie-obiektowe\Zaawansowane-programowanie-obiektowe\Ćwiczenia 1\A2\A2\obj\Debug\A2.pdb
