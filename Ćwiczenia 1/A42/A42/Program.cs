@@ -50,12 +50,12 @@ namespace A42
             }
 
             int wartośćŚrodkowa;
-            if ((liczba2 < liczba1 && liczba2 > liczba3) || (liczba2 > liczba1 && liczba2 < liczba3))
+            if (liczba2 < liczba1 && liczba2 > liczba3 || liczba2 > liczba1 && liczba2 < liczba3)
             {
                 wartośćŚrodkowa = liczba2;
             }
 
-            else if ((liczba1 < liczba3 && liczba1 > liczba2) || (liczba1 > liczba3 && liczba1 < liczba2))
+            else if (liczba1 < liczba3 && liczba1 > liczba2 || liczba1 > liczba3 && liczba1 < liczba2)
             {
                 wartośćŚrodkowa = liczba1;
             }
