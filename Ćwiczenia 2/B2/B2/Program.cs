@@ -14,8 +14,8 @@
             w2.ObliczCene();
             w2.hotelGwiazdki = 5;
 
+            // Wykonanie metody z przypisaniem wartości do pola wewnątrz metody
             w3.UstawallInclusive(true);
-            w3.ObliczCene();
         }
     }
 }
