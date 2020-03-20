@@ -8,6 +8,7 @@ namespace C1
         private double pojemonoscSilnika;
         private string marka;
         public static int iloscKol;
+        public const int iloscDrzwi = 4;
 
         public Car()
         {
